@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-08T16:46:54 IST" name="Default suite" finished-at="2023-03-08T16:46:59 IST" duration-ms="4431">
+    <groups>
+    </groups>
+    <test started-at="2023-03-08T16:46:54 IST" name="Default test" finished-at="2023-03-08T16:46:59 IST" duration-ms="4431">
+      <class name="tesing.God">
+        <test-method is-config="true" signature="browser()[pri:0, instance:tesing.God@8dbdac1]" started-at="2023-03-08T16:46:49 IST" name="browser" finished-at="2023-03-08T16:46:54 IST" duration-ms="5045" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="bing()[pri:0, instance:tesing.God@8dbdac1]" started-at="2023-03-08T16:46:54 IST" name="bing" finished-at="2023-03-08T16:46:56 IST" duration-ms="1928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bing -->
+        <test-method signature="google()[pri:0, instance:tesing.God@8dbdac1]" started-at="2023-03-08T16:46:56 IST" name="google" finished-at="2023-03-08T16:46:59 IST" duration-ms="2447" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google -->
+        <test-method is-config="true" signature="close()[pri:0, instance:tesing.God@8dbdac1]" started-at="2023-03-08T16:46:59 IST" name="close" finished-at="2023-03-08T16:47:01 IST" duration-ms="1835" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- tesing.God -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
